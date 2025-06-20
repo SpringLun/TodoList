@@ -1,0 +1,25 @@
+{
+  "hash": "24ea7f10",
+  "configHash": "de87aed2",
+  "lockfileHash": "ef748ba3",
+  "browserHash": "d81c6075",
+  "optimized": {
+    "dayjs": {
+      "src": "../../../../../../../../node_modules/dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "ef26bba4",
+      "needsInterop": true
+    },
+    "nanoid": {
+      "src": "../../../../../../../../node_modules/nanoid/index.browser.js",
+      "file": "nanoid.js",
+      "fileHash": "5032b582",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-Y2F7D3TJ": {
+      "file": "chunk-Y2F7D3TJ.js"
+    }
+  }
+}

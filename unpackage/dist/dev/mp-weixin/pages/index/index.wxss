@@ -1,0 +1,43 @@
+
+.content.data-v-1cf27b2a {
+		width: 100vw;
+		height: 100vh;
+		margin: 0;
+		padding: 20rpx;
+		font-size: 50rpx;
+		background: url('../../static/background.jpg') repeat center/cover fixed;
+.header.data-v-1cf27b2a {
+			color: #fff;
+.title.data-v-1cf27b2a {
+				font-size: 50rpx;
+				margin-bottom: 5rpx;
+}
+p.data-v-1cf27b2a {
+				font-size: 35rpx;
+}
+}
+.inputItem.data-v-1cf27b2a {
+			padding: 20rpx 0;
+input.data-v-1cf27b2a {
+				background-color: #fff
+}
+}
+.todolist.data-v-1cf27b2a {
+			width: 100%;
+			height: 100%;
+.item.data-v-1cf27b2a {
+				padding: 20rpx;
+				border-radius: 20rpx;
+				margin-bottom: 20rpx;
+				background-color: aliceblue;
+}
+}
+.add.data-v-1cf27b2a {
+			background-color: #297f8b;
+			border-radius: 60rpx;
+			padding: 30rpx;
+			position: fixed;
+			bottom: 50rpx;
+			right: 50rpx;
+}
+}
